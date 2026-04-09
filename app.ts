@@ -410,7 +410,7 @@ export default function DieDimensionsAndBackGrindingApp() {
                 <div>
                   <CardTitle className="text-2xl">Die Dimension + Back Grinding Identifier</CardTitle>
                   <CardDescription>
-                    Engineering-oriented estimator for die sizing, wafer packing, thinning removal, and mechanical risk review.
+                    Estimator for die sizing, wafer packing, thinning removal, and mechanical risk review.
                   </CardDescription>
                 </div>
               </div>
