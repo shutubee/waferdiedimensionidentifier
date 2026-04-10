@@ -715,7 +715,7 @@ export default function DieDimensionsAndBackGrindingApp() {
         </Tabs>
 
         <div className="flex flex-wrap gap-3">
-          <Button className="rounded-2xl" onClick={exportJson}>
+          <Button className="rounded-2xl" onClick={exporttravelerJson}>
             <Download className="mr-2 h-4 w-4" />
             Export traveler JSON
           </Button>
